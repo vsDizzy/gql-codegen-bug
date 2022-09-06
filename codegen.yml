@@ -1,0 +1,7 @@
+schema:
+  - schema.graphql
+  - introspection.json
+generates:
+  types.ts:
+    plugins:
+      - typescript

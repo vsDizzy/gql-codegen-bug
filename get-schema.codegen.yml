@@ -1,0 +1,9 @@
+schema:
+  https://swapi-graphql.netlify.app/.netlify/functions/index
+generates:
+  schema.graphql:
+    plugins:
+      - schema-ast
+  introspection.json:
+    plugins:
+      - introspection
