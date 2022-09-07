@@ -1,3 +1,6 @@
+# This is minimal repo to reproduce a bug
+Issue link: https://github.com/dotansimha/graphql-code-generator/issues/8329
+
 1. download schema:
 
    ```
